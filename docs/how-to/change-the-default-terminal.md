@@ -35,6 +35,8 @@ This is the current way to set your default terminal on Ubuntu 25.04 and later. 
       - `Alacritty.desktop`
     * - Kitty
       - `kitty.desktop`
+    * - Terminator
+      - `terminator.desktop`
     :::
 
     If the file lists multiple terminals, the first line takes precedence.
